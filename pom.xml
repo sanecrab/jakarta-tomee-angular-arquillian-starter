@@ -68,18 +68,20 @@
             <version>2.3.1</version>
         </dependency>
         -->
-
+        <!-- Jackson dependencies -->
         <dependency>
             <groupId>com.fasterxml.jackson.jakarta.rs</groupId>
             <artifactId>jackson-jakarta-rs-json-provider</artifactId>
             <version>${jackson.version}</version>
         </dependency>
+        <!-- AngularJS dependencies -->
         <dependency>
             <groupId>org.webjars</groupId>
             <artifactId>angularjs</artifactId>
             <version>1.8.2</version>
             <scope>runtime</scope>
         </dependency>
+        <!-- Bootstrap dependencies -->
         <dependency>
             <groupId>org.webjars</groupId>
             <artifactId>bootstrap</artifactId>

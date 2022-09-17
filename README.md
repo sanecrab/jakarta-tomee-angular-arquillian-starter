@@ -7,7 +7,7 @@ This starter project contains:
 1- Base Jakarta JAXRS Configuration
    - src/main/java/org/lcdevelop/web/JAXRSApplication
 
-With this base configuration de base API is:
+With this base configuration the base API URL is:
  http://localhost:8080/jakarta-tomee-angular-arquillian-starter/api
 
 2- Java base classes for demostration
